@@ -9,6 +9,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
     },
     
-    baseUrl: 'https://magento.nublue.co.uk/',
+    baseUrl: 'https://integration-5ojmyuq-gy5gqpnqzxpaa.eu-4.magentosite.cloud/',
   },
 });
+
+//teste 

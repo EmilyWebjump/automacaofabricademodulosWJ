@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "Nicole Cazarini",
+  "author": "Fabrica de Modulos",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^10.2.0",
